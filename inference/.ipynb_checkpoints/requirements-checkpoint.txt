@@ -1,0 +1,3 @@
+flask
+mxnet
+numpy
